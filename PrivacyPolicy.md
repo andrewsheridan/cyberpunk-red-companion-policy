@@ -8,11 +8,11 @@ If you choose to use this Service, then you agree to the collection and use of i
 
 **Information Collection and Use**
 
-For a better experience, while using this Service, I may require you to provide certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+Users may opt-in to providing logs and error information to assist in diagnosing issues. Your information will never shared with other parties in any way.
 
 **Log Data**
 
-Whenever you use the Cyberpunk Red Companion App in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This log data may include, device name, operating system version, the configuration of the app when utilizing this Service, the time and date of your use of the Service, and other statistics.
+Users who opt into automatic error reporting will have some data automatically and anonymously reported to assist the developer in resolving issues. This log data includes device name, operating system version, the configuration of the app when utilizing this Service, the time and date of your use of the Service, and some information about what actions were taken in the app immediately before the issue occurred.
 
 **Cookies**
 
@@ -22,7 +22,7 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 **Security**
 
- Your trust is valuable, thus I are striving to use commercially acceptable means of protecting your personal data. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Your trust is valuable, thus I will strive to use commercially acceptable means of protecting your personal data. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 **Links to Other Sites**
 
@@ -36,8 +36,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-11-13
-
+This policy is effective as of 2022-07-27
 **Contact Me**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sheridan.software@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at cyberpunkredapp@gmail.com.
